@@ -1,0 +1,6 @@
+Exp 8:Mutual Exclusion/Deadlock Detection.
+Paste the folder in the PC and cd to the folder
+
+python suzukikasami.py
+
+All the Best For Your Vivas!!!!!
