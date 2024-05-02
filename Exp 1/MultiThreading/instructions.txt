@@ -1,0 +1,10 @@
+Exp 1:Client-Server.
+Paste the folder in the PC and cd to the folder
+
+1st terminal : python server.py
+
+2nd terminal : python client1.py
+
+3rd terminal : python client2.py
+
+All the Best For Your Vivas!!!!!
